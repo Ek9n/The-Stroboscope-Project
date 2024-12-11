@@ -7,3 +7,4 @@ Nestled within a translucent, church-like glass structure, this mechatronic art 
 The immersive environment is carefully crafted to heighten sensory perception. A darkened room serves as the backdrop, where strategically implemented stroboscopic lighting creates a mesmerizing atmospheric landscape. The nuanced manipulation of light frequency subtly transforms the sphere's perceived patterns, generating an optical illusion that challenges the viewer's understanding of time and movement.
 This collaborative project, developed at Fablab Neukölln (Fablab NK) in partnership with designer Daiana Rotchen, was a featured piece in this year's Workish art exhibition. By blending advanced mechatronic technologies with artistic vision, the installation invites observers into a surreal, contemplative space where technological precision meets aesthetic wonder.
 
+<img src="C:\Users\H4nU\Downloads\Telegram Desktop\tag_strobo.jpg" width="300" alt="Tag">
