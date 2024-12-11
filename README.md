@@ -1,6 +1,8 @@
 # The-Stroboscope-Project: A Mechatronic Art Installation
 A mechatronic art installation explores perception through a rotating 3D-printed sphere and dynamic lighting. Developed at Fablab Neukölln, the piece challenges our understanding of time and movement. Featured in the Workish art exhibition, it merges technology with artistic vision.
 
+![Bildbeschreibung](./IMG_0174.MOV)
+
 ## Temporal Illusion
 
 Nestled within a translucent, church-like glass structure, this mechatronic art piece explores the delicate boundaries between motion, perception, and temporal experience. At the heart of the installation, a precisely 3D-printed sphere becomes a canvas of intricate geometric patterns, rotating with an ethereal grace that captivates the viewer.
